@@ -1,6 +1,6 @@
 # github-action-fpm
 
-Github action to build packages for multiple platforms using [fpm](https://github.com/jordansissel/fpm).
+GitHub action to build packages for multiple platforms using [fpm](https://github.com/jordansissel/fpm).
 
 ## Example
 
